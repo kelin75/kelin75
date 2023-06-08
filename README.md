@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Github
+- 🌱 I’m currently learning to become a Fullstack Web Developer
 <!--
 **kelin75/kelin75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
